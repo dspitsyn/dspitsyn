@@ -1,5 +1,5 @@
 ### Hi, I'm Dmitry Spitsyn. 
-I make Microsoft SQL Server go faster.
+I make Microsoft SQL Server stable, secure and go faster.
 
 SQL queries are not just about writing, but about writing them to achieve efficiency. Ignoring important issues can affect the performance of data retrieval from the databases.
 
